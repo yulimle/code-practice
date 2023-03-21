@@ -14,5 +14,6 @@ function solution(citations) {
   }
   return answer;
 }
+
 console.log(solution([25, 8, 5, 3, 3]));
 console.log(solution([3, 0, 6, 1, 5]));
